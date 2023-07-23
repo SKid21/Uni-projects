@@ -4,8 +4,9 @@
 // 4tronix initio robot car. One can run this program within an
 // ssh session.
 //
-// author: Raimund Kirner, University of Hertfordshire
-//         initial version: Dec.2016
+// authors: Raimund Kirner, University of Hertfordshire
+//          Sidney Ssozi 19045234, University of Hertfordshire
+//          initial version: Dec.2016
 //
 // license: GNU LESSER GENERAL PUBLIC LICENSE
 //          Version 2.1, February 1999
