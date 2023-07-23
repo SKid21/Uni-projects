@@ -5,6 +5,7 @@
 // the blob tracking library quickblob.
 //
 // author: Raimund Kirner, University of Hertfordshire
+//         Sidney Ssozi 19045234, University of Hertfordshire
 //         initial version: Dec.2016
 //
 // license: GNU LESSER GENERAL PUBLIC LICENSE
